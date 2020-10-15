@@ -1,0 +1,16 @@
+﻿  CApp.cpp
+e:\game 202\game 202-labs\lab 5\lab 5-brigitte demers\part 3-dodging game\capp.cpp(1): error C2018: unknown character '0x60'
+e:\game 202\game 202-labs\lab 5\lab 5-brigitte demers\part 3-dodging game\capp.h(7): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  CApp_OnCleanup.cpp
+e:\game 202\game 202-labs\lab 5\lab 5-brigitte demers\part 3-dodging game\capp.h(7): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  CApp_OnEvent.cpp
+e:\game 202\game 202-labs\lab 5\lab 5-brigitte demers\part 3-dodging game\capp.h(7): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  CApp_OnInit.cpp
+e:\game 202\game 202-labs\lab 5\lab 5-brigitte demers\part 3-dodging game\capp.h(7): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  CApp_OnLoop.cpp
+e:\game 202\game 202-labs\lab 5\lab 5-brigitte demers\part 3-dodging game\capp.h(7): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  CApp_OnRender.cpp
+e:\game 202\game 202-labs\lab 5\lab 5-brigitte demers\part 3-dodging game\capp.h(7): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  CPlayer.cpp
+e:\game 202\game 202-labs\lab 5\lab 5-brigitte demers\part 3-dodging game\cplayer.h(4): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Generating Code...

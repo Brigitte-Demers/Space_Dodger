@@ -1,0 +1,15 @@
+﻿  CApp.cpp
+C:\Users\guyor\Documents\Lab5-Space-Dodger\Lab 5-Brigitte Demers\Part 1-Sprite Sheets\CApp.h(7,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  CApp_OnCleanup.cpp
+C:\Users\guyor\Documents\Lab5-Space-Dodger\Lab 5-Brigitte Demers\Part 1-Sprite Sheets\CApp.h(7,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  CApp_OnEvent.cpp
+C:\Users\guyor\Documents\Lab5-Space-Dodger\Lab 5-Brigitte Demers\Part 1-Sprite Sheets\CApp.h(7,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  CApp_OnInit.cpp
+C:\Users\guyor\Documents\Lab5-Space-Dodger\Lab 5-Brigitte Demers\Part 1-Sprite Sheets\CApp.h(7,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  CApp_OnLoop.cpp
+C:\Users\guyor\Documents\Lab5-Space-Dodger\Lab 5-Brigitte Demers\Part 1-Sprite Sheets\CApp.h(7,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  CApp_OnRender.cpp
+C:\Users\guyor\Documents\Lab5-Space-Dodger\Lab 5-Brigitte Demers\Part 1-Sprite Sheets\CApp.h(7,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  CSpriteSheet.cpp
+C:\Users\guyor\Documents\Lab5-Space-Dodger\Lab 5-Brigitte Demers\Part 1-Sprite Sheets\CSpriteSheet.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Generating Code...
